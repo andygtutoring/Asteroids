@@ -1,5 +1,7 @@
 README.txt
 
+NOTE: This is still in development. There are probably errors.
+
 I haven't had much experience using the <canvas> element.
 I wanted to create a game that uses the <canvas> element.
 
