@@ -1,0 +1,12 @@
+/* Asteroids.css */
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+#gameCanvas {
+  width: 100%;
+  height: 100vh;
+  display: block;
+}
